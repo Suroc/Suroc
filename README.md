@@ -1,6 +1,6 @@
 ###
 
-<h2 align="center">Strive hard tonight, the young man can still be praised.<br>努力尽今夕，少年犹可夸。</h2>
+<h2 align="center">Strive hard tonight, the young man can still be praised.<br><br>努力尽今夕，少年犹可夸。</h2>
 
 ###
 
